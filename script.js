@@ -1,5 +1,5 @@
 /**
- * BRAJ SEVA — DEVOTIONAL E-COMMERCE WEBSITE
+ * Kunj Seva — DEVOTIONAL E-COMMERCE WEBSITE
  * script.js — All product data, interactions and WhatsApp integration
  *
  * HOW TO EDIT:
